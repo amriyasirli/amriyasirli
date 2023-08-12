@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on jobs, freelance and part time.
 
 ##
- <img src="https://komarev.com/ghpvc/?username=amriyasirli" alt="amriyasirli"/> [![Linkedin Badge](https://img.shields.io/badge/%20-Yassirli%Amri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syarif-hidayatulloh-427718a8)](https://www.linkedin.com/in/syarif-hidayatulloh-427718a8) [![Gmail Badge](https://img.shields.io/badge/%20-id.syarif@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amriyasirli62@gmail.com)](mailto:amriyasirli62@gmail.com)
+ <img src="https://komarev.com/ghpvc/?username=amriyasirli" alt="amriyasirli"/> [![Linkedin Badge](https://img.shields.io/badge/%20-Yassirli%Amri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassirli-amri-50a119204)](https://www.linkedin.com/in/yassirli-amri-50a119204) [![Gmail Badge](https://img.shields.io/badge/%20-amriyasirli62@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amriyasirli62@gmail.com)](mailto:amriyasirli62@gmail.com)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amriyasirli&theme=default&layout=compact&langs_count=6&hide=shell)](https://github.com/amriyasirli)
