@@ -1,14 +1,13 @@
 
 ### Hi there, I’m Amri 👋
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 - 👀 I’m interested in software development, especially web dan mobile development
 - 📚 I'm learning deep fullstack development with JavaScript, PHP and Node.js. 
 - 💞️ I’m looking to collaborate on jobs, freelance and part time.
-<br>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yassirli-amri-50a119204" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/yassirli-amri-50a119204?trk=profile-badge">Yassirli Amri</a></div>
+- 
               
 ##
- <img src="https://komarev.com/ghpvc/?username=amriyasirli" alt="amriyasirli"/> [![Linkedin Badge](https://img.shields.io/badge/%20-Yassirli%Amri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassirli-amri-50a119204)](https://www.linkedin.com/in/yassirli-amri-50a119204) [![Gmail Badge](https://img.shields.io/badge/%20-amriyasirli62@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amriyasirli62@gmail.com)](mailto:amriyasirli62@gmail.com)
+ <img src="https://komarev.com/ghpvc/?username=amriyasirli" alt="amriyasirli"/> [![Linkedin Badge](https://img.shields.io/badge/%20-Yassirli%20Amri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassirli-amri-50a119204)](https://www.linkedin.com/in/yassirli-amri-50a119204) [![Gmail Badge](https://img.shields.io/badge/%20-amriyasirli62@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amriyasirli62@gmail.com)](mailto:amriyasirli62@gmail.com)
 <br>
 
 
