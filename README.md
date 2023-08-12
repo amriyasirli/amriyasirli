@@ -4,7 +4,6 @@
 - 👀 I’m interested in software development, especially web dan mobile development
 - 📚 I'm learning deep fullstack development with JavaScript, PHP and Node.js. 
 - 💞️ I’m looking to collaborate on jobs, freelance and part time.
-
               
 ##
  <img src="https://komarev.com/ghpvc/?username=amriyasirli" alt="amriyasirli"/> [![Linkedin Badge](https://img.shields.io/badge/%20-Yassirli%20Amri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassirli-amri-50a119204)](https://www.linkedin.com/in/yassirli-amri-50a119204) [![Instagram Badge](https://img.shields.io/badge/%20-Yassirli%20Amri-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amri_yassirli)](https://www.instagram.com/amri_yassirli/) [![Gmail Badge](https://img.shields.io/badge/%20-amriyasirli62@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amriyasirli62@gmail.com)](mailto:amriyasirli62@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/%20-+6283168232843-25D366?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/6283168232843)](https://wa.me/6283168232843)
